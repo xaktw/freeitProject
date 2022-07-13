@@ -16,7 +16,7 @@ public class GameXO {
                 {"4", "5", "6"},
                 {"7", "8", "9"}};
 
-        System.out.println("Игра крестики-нолики" );
+        System.out.println("Игра крестики-нолики " );
         Scanner sc = new Scanner(System.in);
         String x = "x";
         String o = "o";
